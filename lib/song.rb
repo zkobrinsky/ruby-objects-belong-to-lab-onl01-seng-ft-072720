@@ -7,6 +7,7 @@ class Song
 
 end
 
+binding.pry
 drake = Artist.new
 drake.name = "Drake"
 
