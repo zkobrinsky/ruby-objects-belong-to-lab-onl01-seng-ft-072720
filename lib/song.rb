@@ -8,7 +8,7 @@ class Song
 end
 
 drake = Artist.new
-drake.artist = "Drake"
+drake.name = "Drake"
 
 song = Song.new
 song.artist = drake
