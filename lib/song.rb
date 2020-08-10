@@ -8,10 +8,10 @@ class Song
 end
 
 binding.pry
-drake = Artist.new
-drake.name = "Drake"
-
-song = Song.new
-song.artist = drake
-
-puts song.artist
+# drake = Artist.new
+# drake.name = "Drake"
+#
+# song = Song.new
+# song.artist = drake
+#
+# puts song.artist
