@@ -6,3 +6,9 @@ class Song
   end
 
 end
+
+drake = Artist.new
+drake.artist = "Drake"
+
+song = Song.new
+song.artist = drake
