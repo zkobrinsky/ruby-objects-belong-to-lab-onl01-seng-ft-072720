@@ -12,3 +12,5 @@ drake.artist = "Drake"
 
 song = Song.new
 song.artist = drake
+
+puts song.artist
